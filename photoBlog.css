@@ -1,0 +1,15 @@
+img{
+    width: 30%;
+    margin:1.66%;
+    height: 200px;
+    float:left;
+}
+p{
+    font-family: 'Permanent Marker', cursive;
+    margin-left: 1.66%;
+    font-size: 30px;
+    font-weight: bold;
+    border-bottom: 2px #F4F4F4 solid;
+    width: 30%;
+    padding-bottom: 10px;
+}
